@@ -1,26 +1,4 @@
 {
-  "Meters": [
-  {
-    "Id": 1,
-    "Name": "Meter 1",
-    "Description": "This is meter 1"
-  },
-  {
-    "Id": 2,
-    "Name": "Meter 2",
-    "Description": "This is meter 2"
-  },
-  {
-    "Id": 3,
-    "Name": "Meter 3",
-    "Description": "This is meter 3"
-  },
-  {
-    "Id": 4,
-    "Name": "Meter 4",
-    "Description": "This is meter 4"
-  }
-],
   "MeterHistory1": [
   {
     "Time": "20190401123547",
