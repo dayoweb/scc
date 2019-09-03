@@ -1,0 +1,53 @@
+[
+  {
+    "Time": "20190401123547",
+    "MetersData": [
+      {
+        "Id": 2,
+        "Volume": 145,
+        "AccVolume": 1470
+      }
+    ],
+    "VirtualMetersData": [
+      {
+        "Id": 2,
+        "Volume": 160,
+        "AccVolume": 1570
+      }
+    ]
+  },
+  {
+    "Time": "20190402123547",
+    "MetersData": [
+      {
+        "Id": 2,
+        "Volume": 145,
+        "AccVolume": 1470
+      }
+    ],
+    "VirtualMetersData": [
+      {
+        "Id": 2,
+        "Volume": 165,
+        "AccVolume": 1590
+      }
+    ]
+  },
+  {
+    "Time": "20190403123547",
+    "MetersData": [
+      {
+        "Id": 2,
+        "Volume": 165,
+        "AccVolume": 1670
+      }
+    ],
+    "VirtualMetersData": [
+      {
+        "Id": 2,
+        "Volume": 150,
+        "AccVolume": 1370
+      }
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "Time": "20190401123547",
+    "MetersData": [
+      {
+        "Id": 1,
+        "Volume": 150,
+        "AccVolume": 1200
+      },
+      {
+        "Id": 2,
+        "Volume": 145,
+        "AccVolume": 1470
+      },
+      {
+        "Id": 3,
+        "Volume": 190,
+        "AccVolume": 1875
+      }
+    ],
+    "VirtualMetersData": [
+      {
+        "Id": 1,
+        "Volume": 155,
+        "AccVolume": 1300
+      },
+      {
+        "Id": 2,
+        "Volume": 160,
+        "AccVolume": 1570
+      },
+      {
+        "Id": 3,
+        "Volume": 205,
+        "AccVolume": 2175
+      }
+    ]
+  },
+  {
+    "Time": "20190402123547",
+    "MetersData": [
+      {
+        "Id": 1,
+        "Volume": 160,
+        "AccVolume": 1250
+      },
+      {
+        "Id": 2,
+        "Volume": 145,
+        "AccVolume": 1470
+      },
+      {
+        "Id": 3,
+        "Volume": 195,
+        "AccVolume": 1975
+      }
+    ],
+    "VirtualMetersData": [
+      {
+        "Id": 1,
+        "Volume": 145,
+        "AccVolume": 1250
+      },
+      {
+        "Id": 2,
+        "Volume": 165,
+        "AccVolume": 1590
+      },
+      {
+        "Id": 3,
+        "Volume": 215,
+        "AccVolume": 2275
+      }
+    ]
+  },
+  {
+    "Time": "20190403123547",
+    "MetersData": [
+      {
+        "Id": 1,
+        "Volume": 170,
+        "AccVolume": 1400
+      },
+      {
+        "Id": 2,
+        "Volume": 165,
+        "AccVolume": 1670
+      },
+      {
+        "Id": 3,
+        "Volume": 220,
+        "AccVolume": 2475
+      }
+    ],
+    "VirtualMetersData": [
+      {
+        "Id": 1,
+        "Volume": 165,
+        "AccVolume": 1350
+      },
+      {
+        "Id": 2,
+        "Volume": 150,
+        "AccVolume": 1370
+      },
+      {
+        "Id": 3,
+        "Volume": 225,
+        "AccVolume": 2775
+      }
+    ]
+  }
+]
